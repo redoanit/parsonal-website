@@ -4,6 +4,7 @@ body{background-color: rgb(255, 255, 255);}
            float: left;
            margin-left: 15%;
            margin-top: 5%;
+           
          }
          #name{color: green;}
 
@@ -12,11 +13,22 @@ body{background-color: rgb(255, 255, 255);}
                border-radius: 10px;
                  }
 
-                 
-        
-
-
-
-
-
+    .last-section{background-color: aqua;}   
+    section{display: table; clear: both;}  
+    #center{text-align: center;}   
+    
+    
+    .last-div{width: 25%;
+        float: left;
+        box-shadow: brown 10px;}
+        #for-margin{margin-left: 28%;
+                    border-radius: 20px;
+                padding: 20px;
+                 }
+        .project-img{height: 60%;
+              width: 60%;}
+         #button{ padding: 30px 100px 30px 100px;
+            background-color: rgb(238, 255, 0);
+           border-radius: 30px;
+         margin: auto;}
 
